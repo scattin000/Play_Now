@@ -1,5 +1,16 @@
 /*this is the main.css part*/
 
 body {
-	font-family: arial;
+    font-family: arial;
 }
+
+
+/* Format all the games to display*/
+
+section {}
+
+
+/*Make sure the display screen has a different layout - override the other section 
+formatting*/
+
+#displayScreen {}
