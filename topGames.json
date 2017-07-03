@@ -1,0 +1,24 @@
+{
+    /*
+    "page": 1,
+    "total_results": 19693,
+    "total_pages": 985, */
+    "results": [
+        // Note CS213 week 8 uses JSON files :)
+        {
+            "game": "Pandemic", // Main object 
+            "id": "1",
+            "Versions": [
+                "name": "",
+                // Array Expansion of the game
+                // with each Version : Name, year, players,ages, rating, Descriptions, image
+                // type of game
+            ], // end array of pandemic version
+
+        }, // end game 1
+
+    ], // end results 
+
+}
+
+/*STRETCH GOAL ADD FILE WITH LIST OF GAMES & EXTENSIONS AND DETAILS THAT IS SEARCHABLE */
