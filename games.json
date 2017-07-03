@@ -53,12 +53,33 @@
            "Image_path": ""        
     },      {      
         "title": "Dominion",
+              "releaseDate": "2008",
+              "Max_Players": "4",
+              "Min_Players": "2",
+              "Age": "13+",
+              "Min_Time": "25mins",
+              "Max_Time": "30mins",
+              "Rating": "7.7",
            "Image_path": ""       
     },      {      
         "title": "7 Wonders",
+              "releaseDate": "2010",
+              "Max_Players": "7",
+              "Min_Players": "2",
+              "Age": "10+",
+              "Min_Time": "25mins",
+              "Max_Time": "30mins",
+              "Rating": "7.8",
            "Image_path": ""        
     },      {      
-        "title": "Trouble",
+        "title": "Terra Mystica",
+              "releaseDate": "2012",
+              "Max_Players": "5",
+              "Min_Players": "2",
+              "Age": "12+",
+              "Min_Time": "60mins",
+              "Max_Time": "150mins",
+              "Rating": "8.3",
            "Image_path": ""        
     },      {      
         "title": "Castle Panic",
