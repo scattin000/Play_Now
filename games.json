@@ -13,43 +13,58 @@
               "Image_path": "http://4.bp.blogspot.com/-vhZe_muWF80/UOSX0bCRk7I/AAAAAAAABl0/oyk9vWb2LUw/s1600/smallworld_boxfront.jpg"    
     },      {      
         "title": "Pandemic",
-              "releaseDate": "2009",
-              "Max_Players": "5",
+              "releaseDate": "2008",
+              "Max_Players": "4",
               "Min_Players": "2",
               "Age": "8+",
               "Min_Time": "40mins",
-              "Max_Time": "80mins",
-              "Rating": "7.4",
+              "Max_Time": "45mins",
+              "Rating": "7.7",
               "Image_path": ""    
     },      {      
-        "title": "Splendor"    
+        "title": "Splendor",
+           "Image_path": ""    
     },      {      
-        "title": "Lost Cities"    
+        "title": "Lost Cities",
+        "Image_path": ""    
     },      {      
-        "title": "Monopoly"    
+        "title": "Monopoly",
+           "Image_path": ""        
     },      {      
-        "title": "Dominion"    
+        "title": "Dominion",
+           "Image_path": ""       
     },      {      
-        "title": "7 Wonders"    
+        "title": "7 Wonders",
+           "Image_path": ""        
     },      {      
-        "title": "Trouble"    
+        "title": "Trouble",
+           "Image_path": ""        
     },      {      
-        "title": "Castle Panic"    
+        "title": "Castle Panic",
+           "Image_path": ""        
     },      {      
-        "title": "Ticket To Ride"    
+        "title": "Ticket To Ride",
+           "Image_path": ""        
     },      {      
-        "title": "Through The Ages"    
+        "title": "Through The Ages",
+           "Image_path": ""        
     },      {      
-        "title": "Settlers of Catan"    
+        "title": "Settlers of Catan",
+           "Image_path": ""        
     },      {      
-        "title": "Risk"    
+        "title": "Risk",
+           "Image_path": ""        
     },      {      
-        "title": "Sheriff of Nottingham"    
+        "title": "Mage Knight Board Game",
+           "Image_path": ""        
     },      {      
-        "title": "Caverna"    
+        "title": "Caverna",
+           "Image_path": ""        
     },      {      
-        "title": "Puerto Rico"    
+        "title": "Puerto Rico",
+           "Image_path": ""        
     },      {      
-        "title": "The Castles of Burgundy"    
+        "title": "The Castles of Burgundy",
+           "Image_path": ""        
     }  ]
 }
