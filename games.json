@@ -23,12 +23,33 @@
               "Image_path": ""    
     },      {      
         "title": "Splendor",
+              "releaseDate": "2014",
+              "Max_Players": "4",
+              "Min_Players": "2",
+              "Age": "10+",
+              "Min_Time": "25mins",
+              "Max_Time": "30mins",
+              "Rating": "7.5",
            "Image_path": ""    
     },      {      
-        "title": "Lost Cities",
+        "title": "Lost Cities The Board Game",
+              "releaseDate": "2008",
+              "Max_Players": "4",
+              "Min_Players": "2",
+              "Age": "8+",
+              "Min_Time": "30mins",
+              "Max_Time": "60mins",
+              "Rating": "6.8",
         "Image_path": ""    
     },      {      
-        "title": "Monopoly",
+        "title": "Monopoly : Disney",
+              "releaseDate": "2001",
+              "Max_Players": "8",
+              "Min_Players": "2",
+              "Age": "8+",
+              "Min_Time": "60mins",
+              "Max_Time": "90mins",
+              "Rating": "5.2",
            "Image_path": ""        
     },      {      
         "title": "Dominion",
