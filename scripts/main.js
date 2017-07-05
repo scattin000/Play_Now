@@ -1,30 +1,28 @@
-//this is the main.js file
+function loadGameListJSON(calback) {
+    //setting up the new request
+    var xhr = new XMLHttpRequest();
 
-/**************************************************
-  PLANNING A PROJECT:
------------------------------------------------
-1. What do you want to make?:
------------------------------------------------
-MC:
->
->
+    /* set up the elements to be changed in the HTML*/
+    // this is the variable for the popular games 
+    document.getElementById('result').innerHTML = 'Most popular';
+    //CHANGE THIS TO GAMEimage
+    document.getElementById('moviePosters').innerHTML = '';
 
-SC:
->
+    // GET --> PATH TO FILE
+    xhr.open('GET', 'games.json', true);
+    xhr.onload = function() {
+            if (xhr.status === 200) {
+                // read the data in the JSON 
+                var myData = JSON.parse(xhr.responseText);
+            } else {
+                alert('Request failed.  Returned status of ' + xhr.status);
+            }
+        } //end onload
 
------------------------------------------------
-2. What steps do you think are necessary?
------------------------------------------------
+    console.log(myData);
+    // baseurl = window.movies_image_url;
+    //console.log(baseurl);
+    posterSizes = window.movies_posters_sizes;
 
 
-
------------------------------------------------
-3. What syntax or coding patterns might you use?
------------------------------------------------
-
-
------------------------------------------------
-Remember: There are many ways to create things with code! The most important part is to write it and get it working.  If you can't get something to work, try making it simpler.  
-After, look for ways you might improve your code! 
-
-**************************************************/
+}

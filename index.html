@@ -7,19 +7,23 @@
     <link rel="stylesheet" type="text/css" href="styles/main.css">
 </head>
 
-<body>
-    <section id="screenDisplay">
-        <!-- -->
-        <section class="slide-wrapper" id="game1">
-
-        </section>
-        <section class="slide-wrapper" id="game2">
-
-        </section>
-        <section class="slide-wrapper" id="game3">
-
-        </section>
-    </section>
+<body onLoad="loadGameListJSON()">
+    <!-- CHANGE DIV TO SECTION!!!!!!-->
+    <div class="container">
+        <!-- Example row of columns -->
+        <div class="row">
+            <div class="col-md-12">
+                <h2 id="result">Now Showing</h2>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div tabindex="1" class="col-md-12" id="Movies">
+                    <div tabindex="2" id="moviePosters"></div>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <script src="scripts/main.js" type="text/javascript"></script>
 </body>
