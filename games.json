@@ -20,7 +20,7 @@
               "Min_Time": "40mins",
               "Max_Time": "45mins",
               "Rating": "7.7",
-              "Image_path": ""    
+              "Image_path": "https://cf.geekdo-images.com/images/pic1534148_md.jpg"    
     },      {      
         "title": "Splendor",
               "releaseDate": "2014",
@@ -30,7 +30,7 @@
               "Min_Time": "25mins",
               "Max_Time": "30mins",
               "Rating": "7.5",
-           "Image_path": ""    
+           "Image_path": "https://cf.geekdo-images.com/images/pic1904079_md.jpg"    
     },      {      
         "title": "Lost Cities The Board Game",
               "releaseDate": "2008",
@@ -40,7 +40,7 @@
               "Min_Time": "30mins",
               "Max_Time": "60mins",
               "Rating": "6.8",
-        "Image_path": ""    
+        "Image_path": "https://cf.geekdo-images.com/images/pic2606157_md.jpg"    
     },      {      
         "title": "Monopoly : Disney",
               "releaseDate": "2001",
@@ -50,7 +50,7 @@
               "Min_Time": "60mins",
               "Max_Time": "90mins",
               "Rating": "5.2",
-           "Image_path": ""        
+           "Image_path": "https://secure.parksandresorts.wdpromedia.com/media/disneyparks/blog/wp-content/uploads/2010/12/dbg002090LARGE.jpg"        
     },      {      
         "title": "Dominion",
               "releaseDate": "2008",
@@ -60,7 +60,7 @@
               "Min_Time": "25mins",
               "Max_Time": "30mins",
               "Rating": "7.7",
-           "Image_path": ""       
+           "Image_path": "https://cf.geekdo-images.com/images/pic394356_md.jpg"       
     },      {      
         "title": "7 Wonders",
               "releaseDate": "2010",
@@ -70,7 +70,7 @@
               "Min_Time": "25mins",
               "Max_Time": "30mins",
               "Rating": "7.8",
-           "Image_path": ""        
+           "Image_path": "https://cf.geekdo-images.com/images/pic860217_md.jpg"        
     },      {      
         "title": "Terra Mystica",
               "releaseDate": "2012",
@@ -80,33 +80,33 @@
               "Min_Time": "60mins",
               "Max_Time": "150mins",
               "Rating": "8.3",
-           "Image_path": ""        
+           "Image_path": "https://cf.geekdo-images.com/images/pic1356616_md.jpg"        
     },      {      
         "title": "Castle Panic",
-           "Image_path": ""        
+           "Image_path": "https://cf.geekdo-images.com/images/pic496923_md.jpg"        
     },      {      
         "title": "Ticket To Ride",
-           "Image_path": ""        
+           "Image_path": "https://cf.geekdo-images.com/images/pic38668_md.jpg"        
     },      {      
         "title": "Through The Ages",
-           "Image_path": ""        
+           "Image_path": "https://cf.geekdo-images.com/images/pic236169_md.jpg"        
     },      {      
         "title": "Settlers of Catan",
-           "Image_path": ""        
+           "Image_path": "https://cf.geekdo-images.com/images/pic268839_md.jpg"        
     },      {      
         "title": "Risk",
-           "Image_path": ""        
+           "Image_path": "https://cdn.shopify.com/s/files/1/0405/0381/products/966_54e9f3601b75d9.92561919_Risk_20box_20art_large_106484fa-b731-472b-b7e8-f07d6a5a2fae_1024x1024.jpg?v=1489748259"        
     },      {      
         "title": "Mage Knight Board Game",
-           "Image_path": ""        
+           "Image_path": "https://cf.geekdo-images.com/images/pic1083380_md.jpg"        
     },      {      
         "title": "Caverna",
-           "Image_path": ""        
+           "Image_path": "https://cf.geekdo-images.com/images/pic1790789_md.jpg"        
     },      {      
         "title": "Puerto Rico",
-           "Image_path": ""        
+           "Image_path": "https://cf.geekdo-images.com/images/pic158548_md.jpg"        
     },      {      
         "title": "The Castles of Burgundy",
-           "Image_path": ""        
+           "Image_path": "https://cf.geekdo-images.com/images/pic1176894.jpg"        
     }  ]
 }
