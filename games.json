@@ -83,6 +83,7 @@
            "Image_path": "https://cf.geekdo-images.com/images/pic1356616_md.jpg"        
     },      {      
         "title": "Castle Panic",
+<<<<<<< HEAD
            "Image_path": "https://cf.geekdo-images.com/images/pic496923_md.jpg"        
     },      {      
         "title": "Ticket To Ride",
@@ -108,5 +109,95 @@
     },      {      
         "title": "The Castles of Burgundy",
            "Image_path": "https://cf.geekdo-images.com/images/pic1176894.jpg"        
+=======
+        "releaseDate": "2009",
+              "Max_Players": "6",
+              "Min_Players": "1",
+              "Age": "10+",
+              "Min_Time": "50mins",
+              "Max_Time": "60mins",
+              "Rating": "6.7",
+           "Image_path": ""        
+    },      {      
+        "title": "Ticket To Ride",
+        "releaseDate": "2004",
+              "Max_Players": "5",
+              "Min_Players": "2",
+              "Age": "8+",
+              "Min_Time": "30mins",
+              "Max_Time": "60mins",
+              "Rating": "7.5",
+           "Image_path": ""        
+    },      {      
+        "title": "Through The Ages : A New Story of Civilization",
+        "releaseDate": "2015",
+              "Max_Players": "4",
+              "Min_Players": "2",
+              "Age": "14+",
+              "Min_Time": "180mins",
+              "Max_Time": "240mins",
+              "Rating": "8.7",
+           "Image_path": ""        
+    },      {      
+        "title": "Settlers of Catan",
+        "releaseDate": "1996",
+              "Max_Players": "4",
+              "Min_Players": "3",
+              "Age": "10+",
+              "Min_Time": "90mins",
+              "Max_Time": "45mins",
+              "Rating": "7.1",
+           "Image_path": ""        
+    },      {      
+        "title": "Risk",
+        "releaseDate": "1959",
+              "Max_Players": "6",
+              "Min_Players": "2",
+              "Age": "10+",
+              "Min_Time": "90mins",
+              "Max_Time": "120mins",
+              "Rating": "5.6",
+           "Image_path": ""        
+    },      {      
+        "title": "Mage Knight Board Game",
+        "releaseDate": "2011",
+              "Max_Players": "4",
+              "Min_Players": "1",
+              "Age": "14+",
+              "Min_Time": "120mins",
+              "Max_Time": "150mins",
+              "Rating": "7.9",
+           "Image_path": ""        
+    },      {      
+        "title": "Caverna : The Cave Farmers",
+        "releaseDate": "2013",
+              "Max_Players": "7",
+              "Min_Players": "1",
+              "Age": "12+",
+              "Min_Time": "30mins",
+              "Max_Time": "210mins",
+              "Rating": "8.2",
+           "Image_path": ""        
+    },      {      
+        "title": "Puerto Rico",
+        "releaseDate": "2002",
+              "Max_Players": "5",
+              "Min_Players": "2",
+              "Age": "12+",
+              "Min_Time": "90mins",
+              "Max_Time": "150mins",
+              "Rating": "8.1",
+           "Image_path": ""        
+    },      {      
+        "title": "The Castles of Burgundy",
+        "releaseDate": "2011",
+              "Max_Players": "4",
+              "Min_Players": "2",
+              "Age": "12+",
+              "Min_Time": "30mins",
+              "Max_Time": "90mins",
+              "Rating": "8.1",
+           "Image_path": ""        
+>>>>>>> fbc6958619a9a15371d01b10d799340cae5d4ce8
     }  ]
 }
