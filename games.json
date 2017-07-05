@@ -83,33 +83,6 @@
            "Image_path": "https://cf.geekdo-images.com/images/pic1356616_md.jpg"        
     },      {      
         "title": "Castle Panic",
-<<<<<<< HEAD
-           "Image_path": "https://cf.geekdo-images.com/images/pic496923_md.jpg"        
-    },      {      
-        "title": "Ticket To Ride",
-           "Image_path": "https://cf.geekdo-images.com/images/pic38668_md.jpg"        
-    },      {      
-        "title": "Through The Ages",
-           "Image_path": "https://cf.geekdo-images.com/images/pic236169_md.jpg"        
-    },      {      
-        "title": "Settlers of Catan",
-           "Image_path": "https://cf.geekdo-images.com/images/pic268839_md.jpg"        
-    },      {      
-        "title": "Risk",
-           "Image_path": "https://cdn.shopify.com/s/files/1/0405/0381/products/966_54e9f3601b75d9.92561919_Risk_20box_20art_large_106484fa-b731-472b-b7e8-f07d6a5a2fae_1024x1024.jpg?v=1489748259"        
-    },      {      
-        "title": "Mage Knight Board Game",
-           "Image_path": "https://cf.geekdo-images.com/images/pic1083380_md.jpg"        
-    },      {      
-        "title": "Caverna",
-           "Image_path": "https://cf.geekdo-images.com/images/pic1790789_md.jpg"        
-    },      {      
-        "title": "Puerto Rico",
-           "Image_path": "https://cf.geekdo-images.com/images/pic158548_md.jpg"        
-    },      {      
-        "title": "The Castles of Burgundy",
-           "Image_path": "https://cf.geekdo-images.com/images/pic1176894.jpg"        
-=======
         "releaseDate": "2009",
               "Max_Players": "6",
               "Min_Players": "1",
@@ -117,7 +90,7 @@
               "Min_Time": "50mins",
               "Max_Time": "60mins",
               "Rating": "6.7",
-           "Image_path": ""        
+           "Image_path": "https://cf.geekdo-images.com/images/pic496923_md.jpg"        
     },      {      
         "title": "Ticket To Ride",
         "releaseDate": "2004",
@@ -127,7 +100,7 @@
               "Min_Time": "30mins",
               "Max_Time": "60mins",
               "Rating": "7.5",
-           "Image_path": ""        
+           "Image_path": "https://cf.geekdo-images.com/images/pic38668_md.jpg"        
     },      {      
         "title": "Through The Ages : A New Story of Civilization",
         "releaseDate": "2015",
@@ -137,7 +110,7 @@
               "Min_Time": "180mins",
               "Max_Time": "240mins",
               "Rating": "8.7",
-           "Image_path": ""        
+           "Image_path": "https://cf.geekdo-images.com/images/pic236169_md.jpg"        
     },      {      
         "title": "Settlers of Catan",
         "releaseDate": "1996",
@@ -147,7 +120,7 @@
               "Min_Time": "90mins",
               "Max_Time": "45mins",
               "Rating": "7.1",
-           "Image_path": ""        
+           "Image_path": "https://cf.geekdo-images.com/images/pic268839_md.jpg"        
     },      {      
         "title": "Risk",
         "releaseDate": "1959",
@@ -157,7 +130,7 @@
               "Min_Time": "90mins",
               "Max_Time": "120mins",
               "Rating": "5.6",
-           "Image_path": ""        
+           "Image_path": "https://cdn.shopify.com/s/files/1/0405/0381/products/966_54e9f3601b75d9.92561919_Risk_20box_20art_large_106484fa-b731-472b-b7e8-f07d6a5a2fae_1024x1024.jpg?v=1489748259"        
     },      {      
         "title": "Mage Knight Board Game",
         "releaseDate": "2011",
@@ -167,7 +140,7 @@
               "Min_Time": "120mins",
               "Max_Time": "150mins",
               "Rating": "7.9",
-           "Image_path": ""        
+           "Image_path": "https://cf.geekdo-images.com/images/pic1083380_md.jpg"        
     },      {      
         "title": "Caverna : The Cave Farmers",
         "releaseDate": "2013",
@@ -177,7 +150,7 @@
               "Min_Time": "30mins",
               "Max_Time": "210mins",
               "Rating": "8.2",
-           "Image_path": ""        
+           "Image_path": "https://cf.geekdo-images.com/images/pic1790789_md.jpg"        
     },      {      
         "title": "Puerto Rico",
         "releaseDate": "2002",
@@ -187,7 +160,7 @@
               "Min_Time": "90mins",
               "Max_Time": "150mins",
               "Rating": "8.1",
-           "Image_path": ""        
+           "Image_path": "https://cf.geekdo-images.com/images/pic158548_md.jpg"        
     },      {      
         "title": "The Castles of Burgundy",
         "releaseDate": "2011",
@@ -197,7 +170,6 @@
               "Min_Time": "30mins",
               "Max_Time": "90mins",
               "Rating": "8.1",
-           "Image_path": ""        
->>>>>>> fbc6958619a9a15371d01b10d799340cae5d4ce8
+           "Image_path": "https://cf.geekdo-images.com/images/pic1176894.jpg"        
     }  ]
 }
