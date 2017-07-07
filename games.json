@@ -10,6 +10,8 @@
               "Min_Time": "40mins",
               "Max_Time": "80mins",
               "Rating": "7.4",
+        "PrimiaryType": ["Strategy"],
+        "SecondaryType": ["Chance"],
               "Image_path": "http://4.bp.blogspot.com/-vhZe_muWF80/UOSX0bCRk7I/AAAAAAAABl0/oyk9vWb2LUw/s1600/smallworld_boxfront.jpg"    
     },      {      
         "title": "Pandemic",
@@ -20,6 +22,8 @@
               "Min_Time": "40mins",
               "Max_Time": "45mins",
               "Rating": "7.7",
+        "PrimiaryType": ["Co-op", "Chance"],
+        "SecondaryType": ["Strategy"],
               "Image_path": "https://cf.geekdo-images.com/images/pic1534148_md.jpg"    
     },      {      
         "title": "Splendor",
@@ -30,9 +34,11 @@
               "Min_Time": "25mins",
               "Max_Time": "30mins",
               "Rating": "7.5",
+        "PrimiaryType": ["Strategy"],
+        "SecondaryType": ["Chance"],
            "Image_path": "https://cf.geekdo-images.com/images/pic1904079_md.jpg"    
     },      {      
-        "title": "Lost Cities The Board Game",
+        "title": "Lost Cities: The Board Game",
               "releaseDate": "2008",
               "Max_Players": "4",
               "Min_Players": "2",
@@ -40,6 +46,8 @@
               "Min_Time": "30mins",
               "Max_Time": "60mins",
               "Rating": "6.8",
+        "PrimiaryType": ["Chance"],
+        "SecondaryType": ["Strategy"],
         "Image_path": "https://cf.geekdo-images.com/images/pic2606157_md.jpg"    
     },      {      
         "title": "Monopoly : Disney",
@@ -50,6 +58,8 @@
               "Min_Time": "60mins",
               "Max_Time": "90mins",
               "Rating": "5.2",
+        "PrimiaryType": ["Childrens"],
+        "SecondaryType": ["Strategy"],
            "Image_path": "https://secure.parksandresorts.wdpromedia.com/media/disneyparks/blog/wp-content/uploads/2010/12/dbg002090LARGE.jpg"        
     },      {      
         "title": "Dominion",
@@ -60,6 +70,8 @@
               "Min_Time": "25mins",
               "Max_Time": "30mins",
               "Rating": "7.7",
+        "PrimiaryType": ["Strategy"],
+        "SecondaryType": ["Chance"],
            "Image_path": "https://cf.geekdo-images.com/images/pic394356_md.jpg"       
     },      {      
         "title": "7 Wonders",
@@ -70,6 +82,8 @@
               "Min_Time": "25mins",
               "Max_Time": "30mins",
               "Rating": "7.8",
+        "PrimiaryType": ["Strategy"],
+        "SecondaryType": ["Chance"],
            "Image_path": "https://cf.geekdo-images.com/images/pic860217_md.jpg"        
     },      {      
         "title": "Terra Mystica",
@@ -80,6 +94,7 @@
               "Min_Time": "60mins",
               "Max_Time": "150mins",
               "Rating": "8.3",
+
            "Image_path": "https://cf.geekdo-images.com/images/pic1356616_md.jpg"        
     },      {      
         "title": "Castle Panic",
@@ -90,6 +105,8 @@
               "Min_Time": "50mins",
               "Max_Time": "60mins",
               "Rating": "6.7",
+        "PrimiaryType": ["Co-op", "Chance"],
+        "SecondaryType": ["Strategy"],
            "Image_path": "https://cf.geekdo-images.com/images/pic496923_md.jpg"        
     },      {      
         "title": "Ticket To Ride",
@@ -100,6 +117,7 @@
               "Min_Time": "30mins",
               "Max_Time": "60mins",
               "Rating": "7.5",
+
            "Image_path": "https://cf.geekdo-images.com/images/pic38668_md.jpg"        
     },      {      
         "title": "Through The Ages : A New Story of Civilization",
@@ -120,6 +138,8 @@
               "Min_Time": "90mins",
               "Max_Time": "45mins",
               "Rating": "7.1",
+        "PrimiaryType": ["Strategy"],
+        "SecondaryType": ["Chance"],
            "Image_path": "https://cf.geekdo-images.com/images/pic268839_md.jpg"        
     },      {      
         "title": "Risk",
@@ -130,6 +150,9 @@
               "Min_Time": "90mins",
               "Max_Time": "120mins",
               "Rating": "5.6",
+        // put a label Strategy Main Type 
+        "PrimiaryType": ["Strategy"],
+        "SecondaryType": ["Chance"],
            "Image_path": "https://cdn.shopify.com/s/files/1/0405/0381/products/966_54e9f3601b75d9.92561919_Risk_20box_20art_large_106484fa-b731-472b-b7e8-f07d6a5a2fae_1024x1024.jpg?v=1489748259"        
     },      {      
         "title": "Mage Knight Board Game",
@@ -160,6 +183,8 @@
               "Min_Time": "90mins",
               "Max_Time": "150mins",
               "Rating": "8.1",
+        "PrimiaryType": ["Strategy"],
+        "SecondaryType": ["Chance"],
            "Image_path": "https://cf.geekdo-images.com/images/pic158548_md.jpg"        
     },      {      
         "title": "The Castles of Burgundy",
