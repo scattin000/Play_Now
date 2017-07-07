@@ -46,8 +46,8 @@
               "Min_Time": "30mins",
               "Max_Time": "60mins",
               "Rating": "6.8",
-        "PrimiaryType": ["Chance"],
-        "SecondaryType": ["Strategy"],
+        "PrimiaryType": ["Family"],
+        "SecondaryType": ["Chance"],
         "Image_path": "https://cf.geekdo-images.com/images/pic2606157_md.jpg"    
     },      {      
         "title": "Monopoly : Disney",
@@ -94,7 +94,8 @@
               "Min_Time": "60mins",
               "Max_Time": "150mins",
               "Rating": "8.3",
-
+        "PrimiaryType": ["Strategy"],
+        "SecondaryType": ["Chance"],
            "Image_path": "https://cf.geekdo-images.com/images/pic1356616_md.jpg"        
     },      {      
         "title": "Castle Panic",
@@ -117,7 +118,8 @@
               "Min_Time": "30mins",
               "Max_Time": "60mins",
               "Rating": "7.5",
-
+        "PrimiaryType": ["Strategy"],
+        "SecondaryType": ["Family"],
            "Image_path": "https://cf.geekdo-images.com/images/pic38668_md.jpg"        
     },      {      
         "title": "Through The Ages : A New Story of Civilization",
@@ -128,6 +130,8 @@
               "Min_Time": "180mins",
               "Max_Time": "240mins",
               "Rating": "8.7",
+        "PrimiaryType": ["Strategy"],
+        "SecondaryType": ["Chance"],
            "Image_path": "https://cf.geekdo-images.com/images/pic236169_md.jpg"        
     },      {      
         "title": "Settlers of Catan",
@@ -163,6 +167,8 @@
               "Min_Time": "120mins",
               "Max_Time": "150mins",
               "Rating": "7.9",
+        "PrimiaryType": ["Strategy"],
+        "SecondaryType": ["Chance"],
            "Image_path": "https://cf.geekdo-images.com/images/pic1083380_md.jpg"        
     },      {      
         "title": "Caverna : The Cave Farmers",
@@ -173,6 +179,8 @@
               "Min_Time": "30mins",
               "Max_Time": "210mins",
               "Rating": "8.2",
+        "PrimiaryType": ["Strategy"],
+        "SecondaryType": ["Chance"],
            "Image_path": "https://cf.geekdo-images.com/images/pic1790789_md.jpg"        
     },      {      
         "title": "Puerto Rico",
@@ -195,6 +203,8 @@
               "Min_Time": "30mins",
               "Max_Time": "90mins",
               "Rating": "8.1",
+        "PrimiaryType": ["Strategy"],
+        "SecondaryType": ["Chance"],
            "Image_path": "https://cf.geekdo-images.com/images/pic1176894.jpg"        
     }  ]
 }
