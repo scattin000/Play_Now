@@ -1,4 +1,4 @@
-function loadGameListJSON(calback) {
+function loadGameListJSON() {
     //setting up the new request
     var xhr = new XMLHttpRequest();
 
@@ -28,9 +28,9 @@ function loadGameListJSON(calback) {
             var posters = myData.results[i].Image_path;
             var image_URL = baseurl + posterSizes + posters;
             // make sure it's working
-            console.log(posters_Url);
+            console.log(image_Url);
             // get the HTML element
-            var section = document.getElementById('gameImage');
+            var section = document.getElementById('gameImages');
             var imgContainer = document.createElement('div');
             imgContainer.className = "game_Image"; // creating the class
             // creating image tag 
@@ -38,8 +38,12 @@ function loadGameListJSON(calback) {
             img.setAttribute('src', image_URL);
             //add image to the imgContainer
             imgContainer.appendChild(img);
-
             // come back to line 69 of the example
+
+            // see sample code for the overlay here... 
+            document.getElementById("gameImages").appendChild(imgContainer);
         }
     }; //end onload
+    xhr.send();
+    // xhr.open()l
 }
