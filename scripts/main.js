@@ -1,3 +1,48 @@
+// MC Section Start
+function showFilter() {
+    document.getElementById('filterContainer').style.left = "0%";    
+} 
+
+function hideFilter(theSection) {
+    document.getElementById('filterContainer').style.left = "110%";
+}
+
+function ignoreEvent(event) {
+    event.stopPropagation()
+}
+
+//Age [Slider] ageSlider
+var age_Slider = ["No age limit", "8+", "10+", "12+", "13+", "14+"];
+function ageSliderValue(newValue) {
+        console.log(newValue);
+        document.getElementById("ageRange").innerHTML = age_Slider[newValue];
+}
+
+//Playing Time [Slider] timeSlider
+var time_Slider = ["Any", "30", "45", "60", "75", "90", "105", "120", "135", "150", "165", "180"];
+function timeSliderValue(newValue) {
+    document.getElementById("timeRange").innerHTML = time_Slider[newValue];
+    console.log(newValue);
+}
+
+// //Number of Players [Slider] playerSlider
+var player_Slider = ["Any", "1", "2", "3", "4", "5", "6"]
+function playerSliderValue(newValue) {
+        console.log(newValue);
+        document.getElementById("playerRange").innerHTML = player_Slider[newValue];
+}
+
+// //Type [Slider] typeSlider
+var type_Slider = ["Any", "Strategy", "Co-op", "Chance"]
+function typeSliderValue(newValue) {
+        console.log(newValue);
+        document.getElementById("typeRange").innerHTML = type_Slider[newValue];
+    }
+
+function submitFilterChanges() {
+    console.log();
+}// MC Section End
+
 function loadGameListJSON() {
     //setting up the new request
     var xhr = new XMLHttpRequest();

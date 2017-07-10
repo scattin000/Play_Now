@@ -8,7 +8,38 @@
     <link rel="stylesheet" type="text/css" href="styles/main.css">
 </head>
 
-<body onLoad="loadGameListJSON()">
+<body onLoad="loadGameListJSON()" id="recommendationView">
+
+    <!--MC Section Start-->
+    <section id="recommendationView" class="recommendationViewClass">
+
+        <!--Filter Container holds the Filter content overlay -->
+        <section id="filterContainer" onclick="hideFilter(this)">
+
+            <!-- Filter Container overlays and holds Filter Content Section -->
+            <section id="filterContent" onclick="ignoreEvent(event)">
+            
+                <!-- Content Div allows the user to filter games -->
+                <div id="contentDiv">                    
+                    <ul><strong>AGE: </strong><span id="ageRange"> No age limit</span><br> 
+					<input id="ageSlider" type="range" min="0" max="5" value="0" onchange="ageSliderValue(this.value)"></ul>
+
+                    <ul><strong>TIME: </strong><span id="timeRange">Any</span><br>
+                    <input id="timeSlider" type="range" min="0" value="0" max="11" onchange="timeSliderValue(this.value)"></ul>
+
+                    <ul><strong># OF PLAYERS: </strong><span id="playerRange">Any</span><br>
+                    <input id="playerSlider" type="range" min="0" value="0" max="6" onchange="playerSliderValue(this.value)"></ul>
+
+                    <ul><strong>TYPE: </strong><span id="typeRange">Any</span><br>
+                    <input id="typeSlider" type="range" min="0" value="0" max="3" onchange="typeSliderValue(this.value)"></ul>
+
+                    <button class="filterSubmit" onclick="submitFilterChanges()">Submit</button>
+
+                </div>
+            </section>
+        </section>
+        <!--MC Section End-->
+
     <!-- CHANGE DIV TO SECTION!!!!!!-->
     <div class="container">
         <!-- Example row of columns -->
@@ -25,6 +56,14 @@
             </div>
         </div>
     </div>
+
+    <!--MC Section Start-->
+    <div><button class="filterbtn" onclick="showFilter()">
+        <img src="http://www.ifonly.com/images/io/filter%20icon_big.png" width="45" 
+        height="35">
+    </button></div>
+    </section>
+    <!--MC Section End-->
 
     <script src="scripts/main.js" type="text/javascript"></script>
 </body>
