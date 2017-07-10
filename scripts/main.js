@@ -28,7 +28,7 @@ function loadGameListJSON() {
             var posters = myData.results[i].Image_path;
             var image_URL = baseurl + posterSizes + posters;
             // make sure it's working
-            console.log(posters_Url);
+            console.log(image_Url);
             // get the HTML element
             var section = document.getElementById('gameImages');
             var imgContainer = document.createElement('div');
