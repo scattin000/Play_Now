@@ -37,9 +37,10 @@ h2 {
 
 #filterContainer {
     position: absolute;
-    height: 88%;
-    width: 78%;
-    padding: 40px 40px;
+    height: 85%;
+    width: 79%;
+    padding: 45px 41px 45px 41px;
+    top: 2%;
     background-color: rgba(0, 0, 0, 0.4);
     left: 110%;
     overflow-y: hidden;
@@ -48,10 +49,11 @@ h2 {
 }
 
 #filterContent {
-    position: absolute;
-    padding: 5px 10px;
-    height: 77%;
-    width: 70%;
+    position: fixed;
+    padding: 0px 0px 0px 0px;
+    height: 63%;
+    width: 65%;
+    top: 16%;
     border: 2px solid white;
     background-color: rgba(0, 0, 0, 0.9);
     z-index: 10;
@@ -87,4 +89,15 @@ section .filterbtn {
     padding: 10px 20px;
     font-size: 15px;
     transition-duration: 0.4s;
+}
+
+#contentDiv {
+    position: relative;
+    padding: 10px 0px 5px 0px;
+    text-align: -webkit-center;
+    display: inline-grid;
+    width: 97%;
+    height: 91%;
+    top: 8%;
+    font-size: 28px;
 }
