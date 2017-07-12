@@ -1,4 +1,6 @@
 // MC Section Start
+var searchParameters = {}
+
 function showFilter() {
     document.getElementById('filterContainer').style.left = "0%";    
 } 
@@ -13,30 +15,34 @@ function ignoreEvent(event) {
 
 //Age [Slider] ageSlider
 var age_Slider = ["No age limit", "8+", "10+", "12+", "13+", "14+"];
-function ageSliderValue(newValue) {
-        console.log(newValue);
-        document.getElementById("ageRange").innerHTML = age_Slider[newValue];
+function ageSliderValue(anAge) {
+        console.log(anAge);
+        document.getElementById("ageRange").innerHTML = age_Slider[anAge];
+        searchParameters.ageLength = anAge;
 }
 
 //Playing Time [Slider] timeSlider
 var time_Slider = ["Any", "30", "45", "60", "75", "90", "105", "120", "135", "150", "165", "180"];
-function timeSliderValue(newValue) {
-    document.getElementById("timeRange").innerHTML = time_Slider[newValue];
-    console.log(newValue);
+function timeSliderValue(aTime) {
+    document.getElementById("timeRange").innerHTML = time_Slider[aTime];
+    console.log(aTime);
+    searchParameters.playLength = aTime;
 }
 
 // //Number of Players [Slider] playerSlider
 var player_Slider = ["Any", "1", "2", "3", "4", "5", "6"]
-function playerSliderValue(newValue) {
-        console.log(newValue);
-        document.getElementById("playerRange").innerHTML = player_Slider[newValue];
+function playerSliderValue(numPlayers) {
+        console.log(numPlayers);
+        document.getElementById("playerRange").innerHTML = player_Slider[numPlayers];
+        searchParameters.numPlayersLength = numPlayers;
 }
 
 // //Type [Slider] typeSlider
 var type_Slider = ["Any", "Strategy", "Co-op", "Chance"]
-function typeSliderValue(newValue) {
-        console.log(newValue);
-        document.getElementById("typeRange").innerHTML = type_Slider[newValue];
+function typeSliderValue(aType) {
+        console.log(aType);
+        document.getElementById("typeRange").innerHTML = type_Slider[aType];
+        searchParameters.gameTypeLength = aType;
     }
 
 function submitFilterChanges() {

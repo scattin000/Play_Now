@@ -99,5 +99,9 @@ section .filterbtn {
     width: 97%;
     height: 91%;
     top: 8%;
-    font-size: 28px;
+    font-size: 27px;
+}
+
+.filterSubmit {
+    
 }
