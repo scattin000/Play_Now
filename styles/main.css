@@ -15,7 +15,9 @@ formatting*/
 
 #displayScreen {}
 
+
 /*MC Section Start*/
+
 #recommendationView {
     position: absolute;
     background-color: rgba(0, 0, 0, 0.6);
@@ -29,11 +31,17 @@ formatting*/
     text-align: center;
     color: white;
 }
+
+
 /*SC Stuff Start*/
+
 h2 {
     text-transform: uppercase;
     letter-spacing: 3px;
-} /*SC Stuff End*/
+}
+
+
+/*SC Stuff End*/
 
 #filterContainer {
     position: absolute;
@@ -100,4 +108,9 @@ section .filterbtn {
     height: 91%;
     top: 8%;
     font-size: 28px;
+}
+
+.game_Image img {
+    width: 50%;
+    height: 50%;
 }
